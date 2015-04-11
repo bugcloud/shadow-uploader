@@ -1,0 +1,15 @@
+$bg-color: #efefef;
+$light-gray: #888;
+
+body {
+  background-color: $bg-color;
+  padding: 15px 15px 15px 0;
+}
+
+.videos {
+  .item {
+    video {
+      box-shadow: 0 0 1px rgba(0,0,0,.7);
+    }
+  }
+}
