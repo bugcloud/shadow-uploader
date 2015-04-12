@@ -31,6 +31,12 @@ gem install bundler
 brew install mysql
 ```
 
+### ffmpeg
+
+```
+brew install ffmpeg
+```
+
 ### Terminal Notifier
 
 To notify test result
